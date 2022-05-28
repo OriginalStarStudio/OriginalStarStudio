@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**OriginalStarStudio/OriginalStarStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <body>
+    <h1>原星工作室</h1>
+    <h3>成员:</h3>
+    <table border="1">
+      <tr>
+        <th>程序员</th>
+        <td>KINGXGM</td>
+      </tr>
+    </table>
+    <h3>历史:</h3>
+    <p>原星工作室于2022年5月28日入驻GitHub</p>
+    <h2>招新ing</h2>
+    <p>欢迎各大善于整活的大佬加入我们!</p>
+  </body>
+</html>
