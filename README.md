@@ -1,6 +1,7 @@
 <html>
   <body>
-    <h1>原星工作室</h1>
+    <h1>原星工作室</h1>    
+    <img src="https://github.com/OriginalStarStudio/OriginalStarStudio/原星工作室logo.jpg"/>
     <h3>成员:</h3>
     <table border="1">
       <tr>
